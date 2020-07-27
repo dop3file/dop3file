@@ -1,4 +1,4 @@
-**Hello,My name is Renat**
+**Hello, My name is Renat**
 
 I am from the city of **Gomel**, **Belarus**
 
