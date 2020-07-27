@@ -1,6 +1,6 @@
 **Hello, My name is Renat**
 
-I am from the city of **Gomel**, **Belarus**
+I am from **Gomel**, **Belarus**
 
 And I'm a Python developer
 
@@ -9,5 +9,7 @@ And I'm a Python developer
 - 👯 [Cooperation](https://t.me/dop3file)
 - 💬 15 years old
 - :wrench: Codeforces and CodeWars user
+- :robot: Extensive experience in developing Telegram / Discord / VK bots (aiogram, telebot, discord.py and etc)
+
 
 
