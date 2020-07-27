@@ -1,16 +1,13 @@
-### Hi there 👋
+**Hello,My name is Renat**
 
-<!--
-**RenatYakublevich/RenatYakublevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from the city of **Gomel**, **Belarus**
 
-Here are some ideas to get you started:
+And I'm a Python developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am engaged in intensive study of algorithms and Computer Science
+- 🌱 I launch my startups :)
+- 👯 [Cooperation](https://t.me/dop3file)
+- 💬 15 years old
+- 📫 Codeforces and CodeWars user
+
+
