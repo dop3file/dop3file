@@ -12,4 +12,6 @@ And I'm a Python developer
 - :robot: Extensive experience in developing Telegram / Discord / VK bots (aiogram, telebot, discord.py and etc)
 
 
+[Codeforces solved tasks](https://github.com/RenatYakublevich/Codeforces_tasks)
+
 
