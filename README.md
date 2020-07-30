@@ -9,7 +9,6 @@ And I'm a Python developer
 - 👯 [Cooperation](https://t.me/dop3file)
 - 💬 15 years old
 - :wrench: Codeforces and CodeWars user
-- :robot: Extensive experience in developing Telegram / Discord / VK bots (aiogram, telebot, discord.py and etc)
 
 
 [Codeforces solved tasks](https://github.com/RenatYakublevich/Codeforces_tasks)
