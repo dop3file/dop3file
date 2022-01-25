@@ -4,8 +4,6 @@ And I'm a Python developer
 
 - 👯 [Cooperation](https://t.me/dop3file)
 
-[Codeforces solved tasks](https://github.com/RenatYakublevich/Codeforces_tasks)
-
 ![Renat Stats](https://github-readme-stats.vercel.app/api?username=dop3file&show_icons=true&theme=radical)
 
 
