@@ -1,6 +1,4 @@
-**Hello, My name is Renat**
-
-And I'm a Python developer
+hi!
 
 - 👯 [Cooperation $$$](https://t.me/dop3file)
 
