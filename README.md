@@ -1,8 +1,6 @@
-*Hello!*
+**Hello!**
 
-***I'm 17 yo engineer***
-
-***practicing python and js***
+***I'm 17 yo Junior Python developer***
 
 - 👯 [Cooperation](https://t.me/dop3file)
 
