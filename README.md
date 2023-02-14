@@ -1,6 +1,6 @@
 **Hello!**
 
-***I'm Junior Python developer***
+***I'm Python developer***
 
 **I study at Gomel State Technical University**
 
