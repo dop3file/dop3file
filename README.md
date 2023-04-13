@@ -2,8 +2,6 @@
 
 ***I'm Python developer***
 
-**I study at Gomel State Technical University**
-
 - 😎[Portfolio](https://dop3file.github.io/portfolio/)
 
 - 👯 [Cooperation](https://t.me/dop3file)
