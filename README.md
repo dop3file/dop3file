@@ -4,7 +4,7 @@
 
 - 😎[Portfolio](https://dop3file.github.io/portfolio/)
 
-- 👯 [Cooperation](https://t.me/dop3file)
+- 👯[Cooperation](https://t.me/dop3file)
 
 ![codewars Stats](https://www.codewars.com/users/dop3file/badges/large)
 
