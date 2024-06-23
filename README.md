@@ -2,9 +2,9 @@
 
 ***I'm Python developer***
 
-**Stack** - Python, Django, DRF, FastAPI, Postgres, Redis, Mongo, ElasticSearch, Docker, Linux, aiogram, Pytest, Gitlab CI/CD
+**Stack** - Python, Django, DRF, FastAPI, Postgres, Redis, Mongo, Docker, Linux, aiogram, Pytest, RabbitMQ and etc
 
-- 😎[Portfolio](https://dop3file.github.io/portfolio/)
+- 😎[Youtube channel](https://www.youtube.com/channel/UCO35ghKNcqmXxgYvhuNfWQw)
 
 - 👯[Cooperation](https://t.me/dop3file)
 
