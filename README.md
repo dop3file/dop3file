@@ -1,8 +1,6 @@
 **Hello!**
 
-***I'm Python developer***
-
-**Stack** - Python, Django, DRF, FastAPI, Postgres, Redis, Mongo, Docker, Linux, aiogram, Pytest, RabbitMQ and etc
+***I'm software developer***
 
 - 😎[Youtube channel](https://www.youtube.com/channel/UCO35ghKNcqmXxgYvhuNfWQw)
 
