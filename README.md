@@ -20,7 +20,7 @@
 
 **Backend:**
 
-```Django, FastAPI, Flask, Mongo```
+```Django, FastAPI, Flask```
 
 **Deployment:**
 
