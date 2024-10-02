@@ -6,7 +6,7 @@
 
 😎[Youtube channel](https://www.youtube.com/channel/UCO35ghKNcqmXxgYvhuNfWQw)
 
-👯[Cooperation](https://t.me/dop3file)
+👯[Cooperation](https://t.me/dopefile)
 
 # 🛠️ Tech Stack
 
