@@ -1,4 +1,4 @@
-***[PORTFOLIO](dop3file.github.io/portfolio)***
+***[PORTFOLIO](https://dop3file.github.io/portfolio/)***
 
 😎[Youtube channel](https://www.youtube.com/channel/UCO35ghKNcqmXxgYvhuNfWQw)
 
